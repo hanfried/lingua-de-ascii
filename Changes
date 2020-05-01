@@ -1,5 +1,9 @@
 Revision history for Perl extension Lingua::DE::ASCII.
 
+0.13  Fri May 01, 2020
+        - renamed test files to pure ascii file names
+          see also: https://rt.cpan.org/Ticket/Display.html?id=132406
+
 0.12  Fri Aug 05, 2016
         - fixed Bug #25310 for Lingua-DE-ASCII: Lingua::DE::ASCII: grep assignment bug
 
